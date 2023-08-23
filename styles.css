@@ -10,3 +10,4 @@ body {
   
   .animation-container {
     position: relative;
+    width: 100vw;
