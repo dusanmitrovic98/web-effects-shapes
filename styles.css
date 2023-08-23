@@ -76,3 +76,4 @@ body {
     border-right: 25px solid transparent;
     border-bottom: 50px solid #e67e22;
     position: relative;
+    animation-name: rotateStar;
