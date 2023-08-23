@@ -79,3 +79,4 @@ body {
     animation-name: rotateStar;
   }
   
+  @keyframes animateShapes {
