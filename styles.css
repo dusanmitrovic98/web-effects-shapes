@@ -72,3 +72,4 @@ body {
   .star {
     width: 0;
     height: 0;
+    border-left: 25px solid transparent;
