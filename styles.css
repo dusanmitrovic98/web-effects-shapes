@@ -90,3 +90,4 @@ body {
       transform: translate(0, 100px);
     }
     75% {
+      transform: translate(-50px, 50px);
