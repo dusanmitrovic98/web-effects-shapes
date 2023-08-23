@@ -21,3 +21,4 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    animation: animateShapes 10s linear infinite;
