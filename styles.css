@@ -84,3 +84,4 @@ body {
       transform: translate(0, 0);
     }
     25% {
+      transform: translate(50px, 50px);
