@@ -143,3 +143,4 @@ body {
       transform: translate(0, 0);
     }
     50% {
+      transform: translate(50px, 50px);
