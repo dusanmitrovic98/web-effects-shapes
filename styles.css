@@ -120,3 +120,4 @@ body {
   @keyframes moveTriangle {
     0% {
       transform: translate(0, 0);
+    }
